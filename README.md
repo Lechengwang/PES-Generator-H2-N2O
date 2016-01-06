@@ -1,4 +1,4 @@
-#Fortran code for potential energy surface of He-N2O
+#Fortran code for potential energy surface of H2-N2O
 
 #ARTICLE INFORMATION 
 
